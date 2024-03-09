@@ -1,0 +1,26 @@
+{
+"name": "event-management-system-dgw",
+"version": "1.0.0",
+"description": " aims to create a robust web application for organizing and managing events efficiently. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/fairbanksf519903/-Event-Management-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "fairbanksf519903",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
